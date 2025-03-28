@@ -11,7 +11,7 @@ A simple React app that fetches and displays inspirational quotes using **Redux 
 
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/yourusername/RTKQuotes.git
+   git clone https://github.com/Kamran-Riyaz/RTKQuotes.git
    cd RTKQuotes
    ```  
 
@@ -32,12 +32,4 @@ A simple React app that fetches and displays inspirational quotes using **Redux 
 
 ## 🌐 API Endpoint  
 Quotes are fetched from:  
-[`https://quotes-api-self.vercel.app/quote`](https://quotes-api-self.vercel.app/quote)  
-
-## 📜 License  
-This project is licensed under the **MIT License**.  
-
----
-
-💡 **Contributions are welcome!** Feel free to open an issue or submit a pull request.  
-```
+[`https://quotes-api-self.vercel.app/quote`](https://quotes-api-self.vercel.app/quote)
